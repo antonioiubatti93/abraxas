@@ -16,3 +16,12 @@ func Test_Invoke(t *testing.T) {
 
 	assert.Equal(t, answer, hook.LastEntry().Message)
 }
+
+func Test_Mediate(t *testing.T) {
+	logger := log.New()
+	hook := logt.NewLocal(logger)
+
+	Mediate(logger)
+
+	assert.Equal(t, answer, hook.LastEntry().Message)
+}
