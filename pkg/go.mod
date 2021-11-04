@@ -1,8 +1,9 @@
-module github.com/antonioiubatti93/abraxas
+module github.com/antonioiubatti93/abraxas/pkg
 
 go 1.17
 
 require (
+	github.com/antonioiubatti93/abraxas v0.2.0
 	github.com/antonioiubatti93/baphomet v0.2.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
