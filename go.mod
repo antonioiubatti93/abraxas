@@ -1,4 +1,4 @@
-module antonioiubatti93/abraxas
+module github.com/antonioiubatti93/abraxas
 
 go 1.17
 
