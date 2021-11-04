@@ -1,4 +1,4 @@
-package abraxas
+package logger
 
 // Logger defines a minimal logger.
 type Logger interface {
