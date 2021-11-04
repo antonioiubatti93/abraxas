@@ -2,7 +2,6 @@ package abraxas
 
 import (
 	"github.com/antonioiubatti93/abraxas/logger"
-	"github.com/antonioiubatti93/baphomet"
 	baphometlog "github.com/antonioiubatti93/baphomet/logger"
 )
 
@@ -13,7 +12,6 @@ func Invoke(logger logger.Logger) {
 }
 
 func Mediate(logger baphometlog.Logger) {
-	baphomet.Summon(logger)
 	logger.Print("inovking Abraxas now")
 	Invoke(logger)
 }
