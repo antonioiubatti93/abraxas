@@ -1,7 +1,7 @@
-github.com/antonioiubatti93/abraxas v0.2.0 h1:hjEOJlpNdWGDgsubsR7LRk6JHRpdomT+/PLW948V5ds=
-github.com/antonioiubatti93/abraxas v0.2.0/go.mod h1:lVwPNt3if1CyQM+emJxYGTxcpuvuFmpjAZqIK6IIyWg=
-github.com/antonioiubatti93/baphomet v0.3.0 h1:gn5BUwqxFAf8viPKUCzEcL5YuuzKxf9KAnXgejYTq84=
-github.com/antonioiubatti93/baphomet v0.3.0/go.mod h1:iwMMmVtNotZaSppVD11e6SATtfF8oPEGbhPIYuhSICI=
+github.com/antonioiubatti93/abraxas/logger v0.0.0-20211104104435-ec0c4c475dcd h1:pZZGKY3xCRewETbPG1EST/2mysOVz4wzSAUTesw4+fc=
+github.com/antonioiubatti93/abraxas/logger v0.0.0-20211104104435-ec0c4c475dcd/go.mod h1:v/ffGfeb92RxlET/33RRC5THEnckkLEl9awe7sAKXg0=
+github.com/antonioiubatti93/baphomet/logger v0.0.0-20211104110036-55ade6439d8a h1:Zvg7xwA2Xoa2gQo1C4T9BwJB3mI9i1sYS0+CdhFt8LI=
+github.com/antonioiubatti93/baphomet/logger v0.0.0-20211104110036-55ade6439d8a/go.mod h1:8w1xvB37B23ucxLwTM4s0W15kg879jAABcqAKtzc1QI=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
