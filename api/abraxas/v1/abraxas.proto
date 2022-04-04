@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package api.abraxas.v1;
+
+option go_package = "github.com/antonioiubatti93/abraxas/api/abraxas/v1;abraxasv1";
+
+message SummonRequest { string client = 1; };
+
+message SummonResponse { string message = 1; };
+
+service SummonService {
+    rpc Summon(SummonRequest) returns (SummonResponse) {};
+};

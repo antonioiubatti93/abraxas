@@ -1,3 +1,3 @@
-# abraxas
+# Abraxas
 
-Simple test repo
+Simple test repo hosting the `.proto` definition of a gRPC-Protobuf API.
